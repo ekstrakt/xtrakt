@@ -1,3 +1,3 @@
 # xtrakt
 PHP Microframework  
-(closed source)
+(closed source at the moment)
