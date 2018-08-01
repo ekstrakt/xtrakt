@@ -1,2 +1,3 @@
 # xtrakt
-PHP Microframework
+PHP Microframework  
+(closed source)
